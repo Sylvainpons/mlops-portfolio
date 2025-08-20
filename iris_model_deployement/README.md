@@ -1,3 +1,9 @@
+# Front-end de l'application
+Voici une capture d'écran de l'interface utilisateur de l'application Iris Predictor :
+
+![Screenshot du front-end](image/streamlit.png)
+
+
 # 🌸 Project 2 – Iris Classification API Deployment
 
 This project demonstrates how to **deploy a Machine Learning model as a REST API** using FastAPI.  
@@ -49,7 +55,3 @@ The RandomForest model expects the following **features in this exact order**:
   "petal_width": 0.2
 }
 
-## Front-end de l'application
-Voici une capture d'écran de l'interface utilisateur de l'application Iris Predictor :
-
-![Screenshot du front-end](image/streamlit.png)
